@@ -1,6 +1,8 @@
 # Aplicacao-Rails
+## Universidade Federal do Paraná
+### CI1010 - Programação Web
 
-## Características:
+#### Características:
 * Deve utilizar o framework rails.
 * A parte do modelo deve seguir as mesmas restrições adotadas para o Trabalho 2 (Ruby), com inclusão exclusão e alteração de elementos feitas não na linha de comando, mas nas views do Rails.
 * As views devem inserir, retirar e excluir elementos das tabelas, observando as relações 1x1, 1xn, nxn.
